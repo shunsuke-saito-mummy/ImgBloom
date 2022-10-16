@@ -1,0 +1,19 @@
+{
+    "name": "ImgBloom.Editor",
+    "rootNamespace": "ImgBloom.Editor",
+    "references": [
+        "GUID:e35bbcf9671a37c41ba585bfa891c9c0",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
