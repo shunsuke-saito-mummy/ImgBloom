@@ -1,6 +1,10 @@
 # ImgBloomについて
-ImgBloomはuGUIのImageに対して簡単にBloomのような表現を実現できるものです。
-Blur画像の生成・保存機能と、Imageに対する加算合成シェーダの実装、それを用いて加算合成用の画像を表示するImageBloomコンポーネントが含まれます。
+ImgBloomは下記のサンプル画像のように、uGUIのImageに対して簡単にBloomのような表現を実現できるものです。
+
+ブラー画像の生成・保存機能と、Imageに対する加算合成シェーダの実装、それを用いて加算合成用の画像を表示するImageBloomコンポーネントが含まれます。
+
+![image](https://user-images.githubusercontent.com/29162559/196032204-c22b1962-f56e-4ef1-87d4-fae822b6d8bf.png)
+
 
 # 使い方
 ## 1. ブラー画像の生成
